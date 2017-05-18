@@ -22,5 +22,8 @@
     <ClCompile Include="..\src\P1_02_Stack\P1_03_Stack_using_Array.cpp">
       <Filter>P1_02_stack</Filter>
     </ClCompile>
+    <ClCompile Include="..\src\P1_02_Stack\P1_04_Stack_using_resizing_array.cpp">
+      <Filter>P1_02_stack</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
