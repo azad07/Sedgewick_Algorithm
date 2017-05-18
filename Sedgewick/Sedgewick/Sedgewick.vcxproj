@@ -117,6 +117,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\src\P1_01_Union_Find\P1_01_Union_Find.cpp" />
+    <ClCompile Include="..\src\P1_02_Stack\P1_02_Stack_using_LinkedList.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

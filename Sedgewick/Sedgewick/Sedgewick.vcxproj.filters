@@ -8,10 +8,16 @@
     <Filter Include="P1_01_Union_Find">
       <UniqueIdentifier>{f29f6799-ea13-4b1e-91a7-a9ce46926fc5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="P1_02_stack">
+      <UniqueIdentifier>{9cce67ed-91f5-4a96-82bc-762afa08555f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\src\P1_01_Union_Find\P1_01_Union_Find.cpp">
       <Filter>P1_01_Union_Find</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\P1_02_Stack\P1_02_Stack_using_LinkedList.cpp">
+      <Filter>P1_02_stack</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

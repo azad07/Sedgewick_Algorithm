@@ -7,7 +7,8 @@
 
 /**************************************Sedgewick_Part_01*************************************************/
 
-#define P1_01_Union_Find
+//#define P1_01_Union_Find
+#define P1_02_Stack_using_LinkedList
 
 
 
